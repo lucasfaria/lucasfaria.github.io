@@ -10,7 +10,7 @@ title: Lucas Faria
 email: oi@lucasfaria.com.br
 description: "Site pessoal para aprender o Jekyll lindo"
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://lucasfaria.com.br" # the base hostname & protocol for your site
+url: "https://lucasfaria.github.io" # the base hostname & protocol for your site
 twitter_username: lucasfaaria
 github_username:  lucasfaria
 
